@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Android Nav Project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_login_fragment">This is the login screen</string>
+    <string name="login_button_text">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_home_fragment">This is the home screen</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_username">Username</string>
+
+    <string name="add_movie_button_text">Add Movie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="add_movie_fragment">Hello Add Movie fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello review fragment</string>
+    <string name="add_review_button_text">Leave Review</string>
+
+    <string name="submit_review_button_text">Submit Review</string>
+    <string name="cancel_button_text">Cancel</string>
+</resources>
